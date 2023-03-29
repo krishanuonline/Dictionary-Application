@@ -68,3 +68,19 @@ section.data p.defination{
     color: rgb(23, 24, 39);
     line-height: 1.5;
 }
+.defination{
+    font-size: 18px;
+    
+}
+.suggested{
+    background-color: #6e69f2;
+    color: #ffff;
+    padding: 2px 10px;
+    border-radius: 3px;
+    margin: 7px 10px 0 0;
+    display: inline-block;
+    cursor: pointer;
+}
+.audio{
+    margin-top: 20px;
+}
