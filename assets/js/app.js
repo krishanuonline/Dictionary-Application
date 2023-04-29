@@ -1,5 +1,6 @@
 let input = document.querySelector('#inputData');
 let searchBtn = document.querySelector('#searchBtn');
+//sould be stored in server
 let apiKey = '5679c7e4-d7cf-4c5d-9fc9-952830811070';
 let notFound = document.querySelector('.notFound');
 let def = document.querySelector('.defination');
